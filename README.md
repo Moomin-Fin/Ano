@@ -1,9 +1,9 @@
 # FSBench
-![FSBench](./FS_intro2.png)
 
 # 📰 News
 
-- **[2024-11]: FSBench is now available at [Google Drive](https://drive.google.com/drive/folders/1Tl_s4S9dH8_hNoLFMnYVrRj3aVWNoF0z?usp=sharing)**
+- **[2025-05-16]: We have temporarily stopped access to FSBench via Google Drive and will release new methods for accessing data and annotations soon.**
+- **[2024-11-01]: FSBench is now available at [Google Drive]**
 
 # ✏️ Abstract
 
