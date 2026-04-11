@@ -2,6 +2,7 @@
 
 # 📰 News
 
+- Please apply for this dataset via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfhT5v4RbqYJ0CgAsn_EYFrZjCOsRvMXibvCbt2XWfZELzfBA/viewform?usp=sharing&ouid=103987129564973943708).
 - **[2025-05-16]: We have temporarily stopped access to FSBench via Google Drive and will release new methods for accessing data and annotations soon.**
 - **[2024-11-01]: FSBench is now available at [Google Drive]**
 
